@@ -1,10 +1,7 @@
-# Welcome to your CDK C# project!
+## CDK project made for the following YouTube videos:
+https://youtube.com/shorts/8HVuXIaJ7a4
+https://youtube.com/shorts/sAV44EnSaqg
 
-This is a blank project for CDK development with C#.
-
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
-
-It uses the [.NET CLI](https://docs.microsoft.com/dotnet/articles/core/) to compile and execute your project.
 
 ## Useful commands
 
